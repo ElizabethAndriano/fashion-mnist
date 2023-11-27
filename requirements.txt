@@ -1,0 +1,9 @@
+streamlit
+streamlit_plotly_events
+keras.datasets
+tensorflow.keras.saving
+sklearn.metrics
+random 
+pandas
+plotly.express
+matplotlib.pyplot
